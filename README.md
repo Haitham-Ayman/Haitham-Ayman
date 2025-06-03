@@ -1,8 +1,19 @@
 ## Hi there 👋
 **My name is Haitham Ayman shalaldeh**
-I'am a student in Hebron University
-### I'm Learning a Javascript now and I'm a part of a team that developed a Clinical Stage Management System for the Faculty of Medicine using Vue js in Hebron University.
+I'am a student in **Hebron University**
+## 🚀 Currently Learning 📘 **JavaScript**
+** I'm a part of a team that developed a Clinical Stage Management System for the Faculty of Medicine using Vue js in Hebron University **
+### 🧠 Languages & Technologies I’ve Learned
 
+| Language / Technology | Description |
+|------------------------|-------------|
+| ☕ **Java**            | Object-oriented programming, desktop applications |
+| 💻 **C++**            | Algorithms, data structures, system-level coding |
+| 🖥️ **C# (Windows Forms)** | GUI desktop development using .NET framework |
+| 🌐 **PHP**            | Backend web development, server-side scripting |
+| 🎨 **HTML & CSS**     | Building responsive and accessible web interfaces |
+
+---
 <!-- **Haitham-Ayman/Haitham-Ayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

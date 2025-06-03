@@ -1,6 +1,7 @@
 ## Hi there 👋
-My name is Haitham Ayman shalaldeh
+**My name is Haitham Ayman shalaldeh**
 I'am a student in Hebron University
+### I'm Learning a Javascript now and I'm a part of a team that developed a Clinical Stage Management System for the Faculty of Medicine using Vue js in Hebron University.
 
 <!-- **Haitham-Ayman/Haitham-Ayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

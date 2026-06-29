@@ -10,7 +10,7 @@ I'am a **Software Developer**
 | 💻 **C++**            | Algorithms, data structures, system-level coding |
 | 🌐 **PHP**            | Backend web development, server-side scripting |
 | 🎨 **HTML & CSS**     | Building responsive and accessible web interfaces |
-| 🟢 **Vue.js **        | Frontend development, single-page applications (SPA), responsive user interfaces |
+| 🟢 **Vue.js**         | Frontend development, single-page applications (SPA), responsive user interfaces |
 
 ---
 <!-- **Haitham-Ayman/Haitham-Ayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

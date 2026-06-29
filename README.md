@@ -1,6 +1,6 @@
 ## Hi there 👋
 **My name is Haitham Ayman shalaldeh**
-I'am a **Software Engineer**
+I'am a **Software Developer**
 ## 🚀 Currently Learning 📘 **Python**
 ### 🧠 Languages & Technologies I’ve Learned
 
